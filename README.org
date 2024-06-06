@@ -1,0 +1,5 @@
+#+TITLE: Hosts
+
+This repository contains the file ~hosts_abp.txt~ which is a list of hostnames that should be
+blocked by blocking plugins such as AdBlocker Plus, and is also compatible with my custom CoreDNS
+adblocking plugin, [[https://github.com/icyflame/blocker][blocker]].
