@@ -1,0 +1,2 @@
+||tls13.taboola.map.fastly.net^
+||dualstack.tls13.taboola.map.fastly.net^
